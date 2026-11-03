@@ -33,7 +33,7 @@ h2{font-size:clamp(1.9rem,3.4vw,2.7rem);color:var(--n)}
 .card{border:1px solid var(--l);border-radius:6px;overflow:hidden;background:#fff;display:flex;flex-direction:column}
 .card .p{position:relative;aspect-ratio:4/3;background:var(--g)}
 .card .p img{width:100%;height:100%;object-fit:cover;display:block}
-.card .p span{position:absolute;left:12px;top:12px;background:var(--n);color:#fff;font-size:12px;letter-spacing:.06em;text-transform:uppercase;padding:4px 10px;border-radius:3px}
+.card .p span{position:absolute;left:12px;bottom:12px;background:var(--n);color:#fff;font-size:12px;letter-spacing:.06em;text-transform:uppercase;padding:4px 10px;border-radius:3px}
 .card .c{padding:18px 20px 22px;display:flex;flex-direction:column;gap:6px}
 .card strong{color:var(--c);font-size:1.3rem}
 .card h3{font-size:1.1rem;color:var(--n);font-family:inherit;font-weight:600}
